@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Author:   Daniela Ďuričeková <daniela.duricekova@gmail.com>
+# Author:   Daniela Ďuričeková <daniela.duricekova@protonmail.com>
 #
 
 import ctypes

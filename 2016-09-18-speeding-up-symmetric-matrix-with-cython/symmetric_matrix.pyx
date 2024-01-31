@@ -1,6 +1,6 @@
 # cython: language_level=3
 #
-# Author:   Daniela Duricekova <daniela.duricekova@gmail.com>
+# Author:   Daniela Ďuričeková <daniela.duricekova@protonmail.com>
 #
 
 
